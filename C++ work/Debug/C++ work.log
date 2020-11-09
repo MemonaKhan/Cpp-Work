@@ -1,0 +1,16 @@
+﻿Build started 7/3/2019 8:10:51 PM.
+     1>Project "C:\Users\ProBook\documents\visual studio 2010\Projects\C++ work\C++ work\C++ work.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\C++ work1.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ProBook\documents\visual studio 2010\Projects\C++ work\Debug\C++ work1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\C++ work1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ProBook\documents\visual studio 2010\Projects\C++ work\Debug\C++ work1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ProBook\documents\visual studio 2010\Projects\C++ work\Debug\C++ work1.lib" /MACHINE:X86 Debug\work1a.obj
+         Debug\work1b.obj
+         Debug\work1c.obj
+     1>LINK : fatal error LNK1561: entry point must be defined
+     1>Done Building Project "C:\Users\ProBook\documents\visual studio 2010\Projects\C++ work\C++ work\C++ work.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.28
